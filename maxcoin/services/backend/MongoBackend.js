@@ -5,6 +5,8 @@ const CoinAPI = require('../CoinAPI');
 
 class MongoBackend {
 
+
+
   constructor() {
     this.coinAPI = new CoinAPI();
   }
@@ -21,3 +23,12 @@ class MongoBackend {
 }
 
 module.exports = MongoBackend;
+/* eslint-disable no-useless-constructor */
+/* eslint-disable class-methods-use-this */
+/* eslint-disable no-empty-function */
+/* eslint-disable no-useless-constructor */
+/* eslint-disable class-methods-use-this */
+/* eslint-disable no-empty-function */
+/* eslint-disable no-useless-constructor */
+/* eslint-disable class-methods-use-this */
+/* eslint-disable no-empty-function */
